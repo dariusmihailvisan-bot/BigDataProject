@@ -1,0 +1,41 @@
+# ---- Large raw / intermediate data ------------------------------------------
+data/raw/*.csv
+data/raw/*.parquet
+data/clean/*.parquet
+data/clean/spark_*/
+data/clean/model_predictions.csv
+
+# Keep folder structure visible on GitHub via .gitkeep files
+!data/raw/.gitkeep
+!data/clean/.gitkeep
+
+# ---- Generated dashboard outputs -------------------------------------------
+dashboard/weather_dashboard.csv
+dashboard/weather_dashboard.html
+
+# ---- Python ----------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ---- Jupyter ---------------------------------------------------------------
+.ipynb_checkpoints/
+
+# ---- Spark -----------------------------------------------------------------
+spark-warehouse/
+metastore_db/
+derby.log
+*.crc
+_SUCCESS
+
+# ---- OS / IDE --------------------------------------------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ---- Course PDFs (kept locally, not committed) -----------------------------
+*.pdf

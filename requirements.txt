@@ -1,0 +1,18 @@
+# Stage 1 — data pull
+requests>=2.31
+
+# Stages 2, 3, 5, 6 — Pandas & friends
+pandas>=2.0
+numpy>=1.24
+pyarrow>=14.0          # for Parquet
+matplotlib>=3.7
+jupyter>=1.0
+
+# Stage 4 — PySpark
+pyspark>=3.5
+
+# Stage 5 — modelling
+scikit-learn>=1.3
+
+# Stage 6 — interactive HTML dashboard
+plotly>=5.18
