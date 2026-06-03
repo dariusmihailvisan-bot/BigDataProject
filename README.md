@@ -119,7 +119,7 @@ Then open `dashboard/weather_dashboard.html` directly, **or** follow
   weather and forecast 1–24 h ahead for energy demand, agriculture
   planning, or event logistics — all on free public data.
 
-## Limitations
+##Limitations
 
 * Only 3 years of history → trend claims are illustrative, not statistical.
 * Open-Meteo Archive uses reanalysis data, not raw station readings —
@@ -129,7 +129,7 @@ Then open `dashboard/weather_dashboard.html` directly, **or** follow
 
 ## License
 
-MIT — see `LICENSE` if you add one.
+
 =======
 # BigDataProject
 >>>>>>> e8d4252b90542338fbf2e220bb6d6ff032112a53
