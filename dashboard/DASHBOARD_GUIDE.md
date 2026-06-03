@@ -80,4 +80,4 @@ per (city, day) with columns:
 ## Backup — Plotly HTML
 If you don't want to install Tableau or Power BI, open
 `dashboard/weather_dashboard.html` in any browser. It has the same four
-charts (line, seasonality, map, distribution) and works offline.
+charts (line, seasonality, map, distribution) and works offline. 
