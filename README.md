@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Historical Weather Trends + Temperature Prediction
 
 A small end-to-end **Big Data** project: pull historical hourly weather for
@@ -129,3 +130,6 @@ Then open `dashboard/weather_dashboard.html` directly, **or** follow
 ## License
 
 MIT — see `LICENSE` if you add one.
+=======
+# BigDataProject
+>>>>>>> e8d4252b90542338fbf2e220bb6d6ff032112a53
