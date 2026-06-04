@@ -1,3 +1,4 @@
+
 # Historical Weather Trends + Temperature Prediction
 
 A small end-to-end **Big Data** project: pull historical hourly weather for
@@ -87,7 +88,7 @@ Text version:
     ## Live Dashboard Tableu: 
   https://public.tableau.com/app/profile/darius.visan/viz/HistoricalWeatherTrendsDariusVisan/HistoricalWeatherTrendsDariusVisan?publish=yes
 
-![Dashboard screenshot](dashboard/dashboardscreenshot.png)
+
 
 ##Limitations
 
@@ -97,5 +98,4 @@ Text version:
 * The model predicts **next-hour** temperature; multi-day forecasting
   needs a proper time-series approach.
 
-=======
 # BigDataProject
