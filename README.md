@@ -90,7 +90,7 @@ Text version:
 
 
 
-##Limitations
+## Limitations
 
 * Only 3 years of history means trend claims are illustrative.
 * Open-Meteo Archive uses reanalysis data, not raw station readings —
@@ -98,4 +98,4 @@ Text version:
 * The model predicts **next-hour** temperature; multi-day forecasting
   needs a proper time-series approach.
 
-# BigDataProject
+
