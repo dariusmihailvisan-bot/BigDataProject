@@ -1,4 +1,3 @@
-
 # Historical Weather Trends + Temperature Prediction
 
 A small end-to-end **Big Data** project: pull historical hourly weather for
@@ -85,14 +84,12 @@ Text version:
   weather and forecast 1–24 h ahead for energy demand, agriculture
   planning, or event logistics — all on free public data.
 
-  ## Live Dashboard Tableu: 
+    ## Live Dashboard Tableu: 
   https://public.tableau.com/app/profile/darius.visan/viz/HistoricalWeatherTrendsDariusVisan/HistoricalWeatherTrendsDariusVisan?publish=yes
 
 ![Dashboard screenshot](dashboard/dashboardscreenshot.png)
 
-
-
-## Limitations
+##Limitations
 
 * Only 3 years of history means trend claims are illustrative.
 * Open-Meteo Archive uses reanalysis data, not raw station readings —
@@ -102,4 +99,3 @@ Text version:
 
 =======
 # BigDataProject
->>>>>>> e8d4252b90542338fbf2e220bb6d6ff032112a53
