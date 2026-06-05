@@ -40,10 +40,10 @@ Text version:
 ```
 .
 ├── data/
-│   ├── raw/              # weather_raw.csv / .parquet  (gitignored)
-│   └── clean/            # weather_clean.csv + Spark outputs (gitignored)
+│   ├── raw/              # weather_raw.csv / .parquet  
+│   └── clean/            # weather_clean.csv + Spark outputs 
 ├── notebooks/
-│   └── 03_eda.ipynb      # EDA + charts + written insights
+│   └── 03_eda.ipynb      
 ├── src/
 │   ├── 01_data_acquisition.py
 │   ├── 02_preprocessing.py
@@ -56,7 +56,6 @@ Text version:
 │   └── weather_dashboard.html    (generated)
 ├── README.md
 ├── requirements.txt
-├── GIT_PLAN.md           # 12-stage commit plan
 └── .gitignore
 ```
 
